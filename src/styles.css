@@ -1,0 +1,14 @@
+.p {
+  width: 10px;
+  height: 10px;
+  border-radius: 10px;
+  position: absolute;
+  transition: all ease 5000ms;
+}
+
+.house {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border: 5px solid black;
+}
